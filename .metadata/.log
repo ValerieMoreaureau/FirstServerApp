@@ -1,0 +1,19 @@
+!SESSION 2024-04-04 23:38:47.581 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-04 23:38:48.698
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-04 23:39:07.706
+!MESSAGE Logback config file: /home/valeriiamukha/Desktop/java/FirstServerApp/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-04 23:39:08.486
+!MESSAGE System property http.proxyHost is not set but should be server1.host.com.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-04 23:39:08.486
+!MESSAGE System property http.proxyPort is not set but should be 8080.
